@@ -1,0 +1,37 @@
+{
+    "inventario": [
+        {
+            "nombre": "Portatil",
+            "precio": 999.99,
+            "cantidad": 50
+        },
+        {
+            "nombre": "Tablet",
+            "precio": 499.99,
+            "cantidad": 100
+        },
+        {
+            "nombre": "Telefono",
+            "precio": 699.99,
+            "cantidad": 200
+        }
+    ],
+    "pedidos": [
+        {
+            "producto": "Portatil",
+            "cantidad": 2
+        },
+        {
+            "producto": "Tableta",
+            "cantidad": 1
+        }
+    ],
+    "clientes": [
+        {
+            "nombre": "Alba Donado"
+        },
+        {
+            "nombre": "Mario Gangoso"
+        }
+    ]
+}
